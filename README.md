@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![gouharmaqubool's GitHub | Topics Over Time](https://stats.quine.sh/gouharmaqubool/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouharmaqubool)
+[![gouharmaqubool's GitHub | Dependencies](https://stats.quine.sh/gouharmaqubool/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouharmaqubool)
+[![gouharmaqubool's GitHub | Languages Over Time](https://stats.quine.sh/gouharmaqubool/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouharmaqubool)
+[![gouharmaqubool's GitHub | Stats](https://stats.quine.sh/gouharmaqubool/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gouharmaqubool)
